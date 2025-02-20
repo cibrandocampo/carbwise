@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <!-- Meta charset and viewport -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Meta description optimized for SEO -->
+  <meta name="description" content="CarbWise helps you calculate carbohydrate content in various foods, ideal for people with diabetes or those seeking to maintain a healthy and precise diet.">
+
+  <!-- Meta keywords for better search relevance -->
+  <meta name="keywords" content="carbohydrates, diabetes, calculator, nutrition, diet, food, carbwise, carb content, diabetes type 2">
+
+  <!-- Meta author -->
+  <meta name="author" content="CarbWise">
+
+  <!-- Meta Open Graph (for social media) -->
+  <meta property="og:title" content="CarbWise - Carbohydrate Calculator">
+  <meta property="og:description" content="Easily check carbohydrate content in various foods and adjust your diet accurately. Ideal for managing diabetes.">
+
+  <!-- Meta Twitter Card -->
+  <meta name="twitter:title" content="CarbWise - Carbohydrate Calculator">
+  <meta name="twitter:description" content="Easily check carbohydrate content in various foods and adjust your diet accurately. Ideal for managing diabetes.">
+  
+  <!-- Page title -->
+  <title id="title">CarbWise - Carbohydrate Calculator</title>
+
+  <!-- Favicon -->
+  <link rel="icon" href="favicon.ico" type="image/x-icon">
+
+  <!-- Styles -->
+  <link rel="stylesheet" href="css/styles.css">
+  
+  <!-- Scripts -->
+  <script src="js/jquery-3.7.1.min.js" defer></script>
+  <script src="js/lang.js" defer></script>
+  <script src="js/script.js" defer></script>
+</head>
+<body>
+  <div class="container">
+    <!-- Fixed block -->
+    <div id="fixed-block">
+      <div class="d-flex justify-content-center align-items-center gap-2 mb-3 text-center">
+          <h1 class="fw-bold m-0">CarbWise</h1>
+          <!-- Display on medium and larger screens -->
+          <h3 class="text-secondary m-0 d-none d-md-block" id="slogan">| Track your carbs</h3>
+          <!-- Display only on small screens -->
+          <h3 class="text-secondary m-0 d-block d-md-none" id="small-slogan">| Track your carbs</h3>
+      </div>
+
+      <!-- Search bar -->
+      <input type="text" id="search" class="form-control mb-3" placeholder="Search product or category...">
+
+      <!-- Table header for the fixed block -->
+      <table class="table table-striped">
+        <colgroup>
+          <col style="width: 40%;">
+          <col style="width: 20%;">
+          <col style="width: 20%;">
+          <col style="width: 20%;">
+        </colgroup>
+        <thead class="table-dark">
+            <tr>
+                <th id="product-header">Product</th>
+                <th id="grams-header">Grams per Serving (CHO)</th>
+                <th id="carbs-header">Carbs (CHO) per 100g</th>
+                <th id="glycemic-header">Glycemic Index</th>
+            </tr>
+        </thead>
+      </table>
+    </div>
+
+    <!-- Dynamic table content -->
+    <table class="table table-striped" id="dataTable">
+      <colgroup>
+        <col style="width: 40%;">
+        <col style="width: 20%;">
+        <col style="width: 20%;">
+        <col style="width: 20%;">
+      </colgroup>
+      <tbody>
+          <!-- Table rows will be generated dynamically -->
+      </tbody>
+    </table>
+
+    <!-- Data source -->
+    <p class="text-muted mt-4" style="font-size: 0.8rem; text-align: left;" id="data-source">
+      * The data shown is based on the study by Serafín Murillo, Nutrition and Sports Advisor for the Diabetes Foundation and the Novo Nordisk Diabetes Foundation.
+    </p>
+
+    <!-- Copyright -->
+    <p class="text-center text-muted" style="font-size: 0.8rem;" id="copyright">
+      &copy; 2024 CarbWise. All rights reserved.
+    </p>
+  </div>
+</body>
+</html>
