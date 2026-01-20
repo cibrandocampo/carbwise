@@ -1,0 +1,98 @@
+{
+    "es": {
+        "title": "CarbWise - Calculadora de Hidratos de Carbono",
+        "slogan": "| Calcula tus carbohidratos",
+        "description": "Consulta fácilmente los hidratos de carbono en distintos alimentos y conviértete en un experto.",
+        "search": "Buscar producto o categoría...",
+        "product_header": "Producto",
+        "grams_header": "Gramos por Ración (HC)",
+        "carbs_header": "Hidratos (HC) cada 100g",
+        "glycemic_header": "Índice Glucémico",
+        "data_source": "* Los datos mostrados están basados en el estudio de Serafín Murillo, Asesor en Nutrición y Deporte de la Fundación para la Diabetes y de la Fundación para la Diabetes Novo Nordisk.",
+        "copyright": "&copy; 2024 CarbWise. Todos los derechos reservados."
+    },
+    "en": {
+        "title": "CarbWise - Carbohydrate Calculator",
+        "slogan": "| Track your carbs",
+        "description": "Easily check carbohydrate content in various foods and become an expert.",
+        "search": "Search for product or category...",
+        "product_header": "Product",
+        "grams_header": "Grams per Serving (CHO)",
+        "carbs_header": "Carbs (CHO) per 100g",
+        "glycemic_header": "Glycemic Index (GI)",
+        "data_source": "* The data shown is based on the study by Serafín Murillo, Nutrition and Sports Advisor for the Diabetes Foundation and the Novo Nordisk Diabetes Foundation.",
+        "copyright": "&copy; 2024 CarbWise. All rights reserved."
+    },
+    "fr": {
+        "title": "CarbWise - Calculateur de Glucides",
+        "slogan": "| Suivez vos glucides",
+        "description": "Consultez facilement la teneur en glucides des différents aliments et devenez un expert.",
+        "search": "Rechercher un produit ou une catégorie...",
+        "product_header": "Produit",
+        "grams_header": "Grammes par Portion (HC)",
+        "carbs_header": "Glucides (HC) pour 100g",
+        "glycemic_header": "Indice Glycémique",
+        "data_source": "* Les données présentées sont basées sur l'étude de Serafín Murillo, conseiller en nutrition et sport pour la Fondation du Diabète et la Fondation Novo Nordisk.",
+        "copyright": "&copy; 2024 CarbWise. Tous droits réservés."
+    },
+    "gl": {
+        "title": "CarbWise - Calculadora de Hidratos de Carbono",
+        "slogan": "| Calcula os teus carbohidratos",
+        "description": "Consulta facilmente os hidratos de carbono en distintos alimentos e convértete nun experto.",
+        "search": "Buscar produto ou categoría...",
+        "product_header": "Produto",
+        "grams_header": "Gramos por Ración (HC)",
+        "carbs_header": "Hidratos (HC) cada 100g",
+        "glycemic_header": "Índice Glucémico",
+        "data_source": "* Os datos amosados están baseados no estudo de Serafín Murillo, Asesor en Nutrición e Deporte da Fundación para a Diabetes e da Fundación para a Diabetes Novo Nordisk.",
+        "copyright": "&copy; 2024 CarbWise. Todos os dereitos reservados."
+    },
+    "ca": {
+        "title": "CarbWise - Calculadora de Hidrats de Carboni",
+        "slogan": "| Calcula els teus hidrats",
+        "description": "Consulta fàcilment els hidrats de carboni en diferents aliments i converteix-te en un expert.",
+        "search": "Cerca producte o categoria...",
+        "product_header": "Producte",
+        "grams_header": "Grams per Ració (HC)",
+        "carbs_header": "Hidrats (HC) per 100g",
+        "glycemic_header": "Índex Glucèmic",
+        "data_source": "* Les dades mostrades es basen en l'estudi de Serafín Murillo, assessor en nutrició i esport de la Fundació per la Diabetis i de la Fundació per la Diabetis Novo Nordisk.",
+        "copyright": "&copy; 2024 CarbWise. Tots els drets reservats."
+    },
+    "eu": {
+        "title": "CarbWise - Karbohidratoen Kalkulagailua",
+        "slogan": "| Kontrolatu zure karbohidratoak",
+        "description": "Erraz kontsulta itzazu hainbat elikagarritako karbohidratoen edukia eta bihurtu zaitez aditu.",
+        "search": "Bilatu produktua edo kategoria...",
+        "product_header": "Produktua",
+        "grams_header": "Gramoak Portzioko (KH)",
+        "carbs_header": "Karbohidratoak (KH) 100g-tan",
+        "glycemic_header": "Glikemiko Indizea",
+        "data_source": "* Erabiltzen diren datuak Serafín Murilloren ikerketan oinarritzen dira, Diabetes Fundazioko eta Novo Nordisk Diabetes Fundazioko Elikadura eta Kirol Aholkulariaren arabera.",
+        "copyright": "&copy; 2024 CarbWise. Eskubide guztiak erreserbatuta."
+    },
+    "it": {
+        "title": "CarbWise - Calcolatore dei Carboidrati",
+        "slogan": "| Calcola i tuoi carboidrati",
+        "description": "Controlla facilmente il contenuto di carboidrati in vari alimenti e diventa un esperto.",
+        "search": "Cerca prodotto o categoria...",
+        "product_header": "Prodotto",
+        "grams_header": "Grammi per Porzione (HC)",
+        "carbs_header": "Carboidrati (HC) per 100g",
+        "glycemic_header": "Indice Glicemico",
+        "data_source": "* I dati mostrati sono basati sullo studio di Serafín Murillo, Consulente di Nutrizione e Sport per la Fondazione per il Diabete e la Fondazione Novo Nordisk per il Diabete.",
+        "copyright": "&copy; 2024 CarbWise. Tutti i diritti riservati."
+    },
+    "de": {
+        "title": "CarbWise - Kohlenhydratausrechner",
+        "slogan": "| Verfolge deine Kohlenhydrate",
+        "description": "Überprüfe einfach den Kohlenhydratgehalt in verschiedenen Lebensmitteln und werde ein Experte.",
+        "search": "Produkt oder Kategorie suchen...",
+        "product_header": "Produkt",
+        "grams_header": "Gramm pro Portion (KH)",
+        "carbs_header": "Kohlenhydrate (KH) pro 100g",
+        "glycemic_header": "Glykämischer Index",
+        "data_source": "* Die angezeigten Daten basieren auf der Studie von Serafín Murillo, Ernährungs- und Sportberater der Diabetes Stiftung und der Novo Nordisk Diabetes Stiftung.",
+        "copyright": "&copy; 2024 CarbWise. Alle Rechte vorbehalten."
+    }
+}

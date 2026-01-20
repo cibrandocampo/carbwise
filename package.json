@@ -1,0 +1,30 @@
+{
+  "name": "carbwise",
+  "version": "1.0.0",
+  "description": "CarbWise - Carbohydrate Calculator for people with diabetes",
+  "type": "module",
+  "scripts": {
+    "dev": "npx http-server src -p 8080 -o",
+    "dev:docker": "cd dev && docker-compose up",
+    "dev:docker:down": "cd dev && docker-compose down",
+    "build": "npm run build:css && npm run build:js",
+    "build:css": "echo 'CSS build placeholder'",
+    "build:js": "echo 'JS build placeholder'",
+    "build:docker": "docker build -t carbwise:latest .",
+    "build:docker:tag": "docker build -t carbwise:${npm_package_version} .",
+    "push:docker": "docker push carbwise:latest",
+    "deploy:docker": "npm run build:docker && npm run push:docker",
+    "prod:docker": "docker-compose up -d",
+    "prod:docker:down": "docker-compose down"
+  },
+  "keywords": [
+    "diabetes",
+    "carbohydrates",
+    "calculator",
+    "nutrition"
+  ],
+  "author": "Cibrán Docampo",
+  "license": "MIT",
+  "devDependencies": {}
+}
+

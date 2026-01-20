@@ -1,0 +1,3115 @@
+{
+  "categories": [
+    {
+      "id": "dairy",
+      "translations": {
+        "es": "Lácteos",
+        "en": "Dairy",
+        "fr": "Produits Laitiers",
+        "gl": "Lácteos",
+        "ca": "Làctics",
+        "eu": "Laktikoak",
+        "it": "Latticini",
+        "de": "Milchprodukte"
+      }
+    },
+    {
+      "id": "cereals",
+      "translations": {
+        "es": "Cereales",
+        "en": "Cereals",
+        "fr": "Céréales",
+        "gl": "Cereais",
+        "ca": "Cereals",
+        "eu": "Cereala",
+        "it": "Cereali",
+        "de": "Getreide"
+      }
+    },
+    {
+      "id": "fruits",
+      "translations": {
+        "es": "Frutas",
+        "en": "Fruits",
+        "fr": "Fruits",
+        "gl": "Froitas",
+        "ca": "Fruites",
+        "eu": "Fruta",
+        "it": "Frutta",
+        "de": "Obst"
+      }
+    },
+    {
+      "id": "vegetables",
+      "translations": {
+        "es": "Hortalizas",
+        "en": "Vegetables",
+        "fr": "Légumes",
+        "gl": "Hortalizas",
+        "ca": "Hortalícies",
+        "eu": "Barazkiak",
+        "it": "Verdure",
+        "de": "Gemüse"
+      }
+    },
+    {
+      "id": "beverages",
+      "translations": {
+        "es": "Bebidas",
+        "en": "Beverages",
+        "fr": "Boissons",
+        "gl": "Bebidas",
+        "ca": "Begudes",
+        "eu": "Edariak",
+        "it": "Bevande",
+        "de": "Getränke"
+      }
+    },
+    {
+      "id": "nuts",
+      "translations": {
+        "es": "Frutos secos",
+        "en": "Nuts",
+        "fr": "Fruits secs",
+        "gl": "Froitos secos",
+        "ca": "Nous secs",
+        "eu": "Larruanak",
+        "it": "Frutta secca",
+        "de": "Nüsse"
+      }
+    },
+    {
+      "id": "sugars",
+      "translations": {
+        "es": "Azúcares",
+        "en": "Sugars",
+        "fr": "Sucres",
+        "gl": "Azucre",
+        "ca": "Sucres",
+        "eu": "Azukreak",
+        "it": "Zuccheri",
+        "de": "Zucker"
+      }
+    },
+    {
+      "id": "baked_goods",
+      "translations": {
+        "es": "Repostería",
+        "en": "Baked Goods",
+        "fr": "Produits de boulangerie",
+        "gl": "Pastelería",
+        "ca": "Pastisseria",
+        "eu": "Pasteleria",
+        "it": "Prodotti da forno",
+        "de": "Backwaren"
+      }
+    },
+    {
+      "id": "confectionery",
+      "translations": {
+        "es": "Confitería",
+        "en": "Confectionery",
+        "fr": "Confiserie",
+        "gl": "Confitería",
+        "ca": "Confiteria",
+        "eu": "Konfitzeria",
+        "it": "Confetteria",
+        "de": "Süßwaren"
+      }
+    },
+    {
+      "id": "condiments",
+      "translations": {
+        "es": "Condimentos",
+        "en": "Condiments",
+        "fr": "Condiments",
+        "gl": "Condimentos",
+        "ca": "Condiments",
+        "eu": "Condimentuak",
+        "it": "Condimenti",
+        "de": "Würzmittel"
+      }
+    },
+    {
+      "id": "prepared_dishes",
+      "translations": {
+        "es": "Platos preparados",
+        "en": "Prepared Dishes",
+        "fr": "Plats préparés",
+        "gl": "Pratos preparados",
+        "ca": "Plats preparats",
+        "eu": "Prestatuak",
+        "it": "Piatti pronti",
+        "de": "Fertiggerichte"
+      }
+    },
+    {
+      "id": "snacks",
+      "translations": {
+        "es": "Aperitivos",
+        "en": "Snacks",
+        "fr": "En-cas",
+        "gl": "Aperitivos",
+        "ca": "Aperitius",
+        "eu": "Snacks",
+        "it": "Spuntini",
+        "de": "Snacks"
+      }
+    },
+    {
+      "id": "ingredients",
+      "translations": {
+        "es": "Ingredientes",
+        "en": "Ingredients",
+        "fr": "Ingrédients",
+        "gl": "Ingredientes",
+        "ca": "Ingredients",
+        "eu": "Osagaiak",
+        "it": "Ingredienti",
+        "de": "Zutaten"
+      }
+    }
+  ],
+  "products": [
+    {
+      "name": {
+        "es": "Cuajada",
+        "en": "Curd",
+        "fr": "Caillé",
+        "gl": "Requeixo (Cuajada)",
+        "ca": "Cuajada",
+        "eu": "Cuajada",
+        "it": "Cagliata",
+        "de": "Milchquark"
+      },
+      "category": "dairy",
+      "grams_per_cho": 200,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Flan",
+        "en": "Flan",
+        "fr": "Flan",
+        "gl": "Flan",
+        "ca": "Flan",
+        "eu": "Flan",
+        "it": "Flan",
+        "de": "Flan"
+      },
+      "category": "dairy",
+      "grams_per_cho": 50,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Helado de crema",
+        "en": "Cream ice cream",
+        "fr": "Glace à la crème",
+        "gl": "Xeado de crema",
+        "ca": "Gelat de crema",
+        "eu": "Krema izozki",
+        "it": "Gelato alla crema",
+        "de": "Eiscreme"
+      },
+      "category": "dairy",
+      "grams_per_cho": 50,
+      "glycemic_index": 60
+    },
+    {
+      "name": {
+        "es": "Helado de hielo",
+        "en": "Ice pop",
+        "fr": "Glace d'eau",
+        "gl": "Xeado de xeo",
+        "ca": "Gelat d'aigua",
+        "eu": "Ur-izozki",
+        "it": "Ghiacciolo",
+        "de": "Eis am Stiel"
+      },
+      "category": "dairy",
+      "grams_per_cho": 50,
+      "glycemic_index": 65
+    },
+    {
+      "name": {
+        "es": "Helado sin azúcar añadido",
+        "en": "Sugar-free ice cream",
+        "fr": "Glace sans sucre ajouté",
+        "gl": "Xeado sen azucre engadido",
+        "ca": "Gelat sense sucre afegit",
+        "eu": "Goxka azukririk gabe",
+        "it": "Gelato senza zucchero",
+        "de": "Zuckerfreies Eis"
+      },
+      "category": "dairy",
+      "grams_per_cho": 100,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Kéfir",
+        "en": "Kefir",
+        "fr": "Kéfir",
+        "gl": "Kéfir",
+        "ca": "Kéfir",
+        "eu": "Kéfir",
+        "it": "Kefir",
+        "de": "Kefir"
+      },
+      "category": "dairy",
+      "grams_per_cho": 200,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Leche desnatada",
+        "en": "Skim milk",
+        "fr": "Lait écrémé",
+        "gl": "Leite desnatado",
+        "ca": "Llet desnatada",
+        "eu": "Esne desnatado",
+        "it": "Latte scremato",
+        "de": "Magermilch"
+      },
+      "category": "dairy",
+      "grams_per_cho": 200,
+      "glycemic_index": 30
+    },
+    {
+      "name": {
+        "es": "Leche semidesnat.",
+        "en": "Semi-skimmed milk",
+        "fr": "Lait demi-écrémé",
+        "gl": "Leite semidesnatado",
+        "ca": "Llet semidesnatada",
+        "eu": "Esne erdi desnatatua",
+        "it": "Latte parzialmente scremato",
+        "de": "Halbentrahmte Milch"
+      },
+      "category": "dairy",
+      "grams_per_cho": 200,
+      "glycemic_index": 30
+    },
+    {
+      "name": {
+        "es": "Leche entera",
+        "en": "Whole milk",
+        "fr": "Lait entier",
+        "gl": "Leite enteiro",
+        "ca": "Llet sencera",
+        "eu": "Esne osoa",
+        "it": "Latte intero",
+        "de": "Vollmilch"
+      },
+      "category": "dairy",
+      "grams_per_cho": 200,
+      "glycemic_index": 30
+    },
+    {
+      "name": {
+        "es": "Leche condensada",
+        "en": "Condensed milk",
+        "fr": "Lait concentré",
+        "gl": "Leite condensado",
+        "ca": "Llet condensada",
+        "eu": "Esne kondentsatua",
+        "it": "Latte condensato",
+        "de": "Kondensmilch"
+      },
+      "category": "dairy",
+      "grams_per_cho": 20,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Leche en polvo",
+        "en": "Powdered milk",
+        "fr": "Lait en poudre",
+        "gl": "Leite en po",
+        "ca": "Llet en pols",
+        "eu": "Esne hautsia",
+        "it": "Latte in polvere",
+        "de": "Milchpulver"
+      },
+      "category": "dairy",
+      "grams_per_cho": 25,
+      "glycemic_index": 30
+    },
+    {
+      "name": {
+        "es": "Nata líquida",
+        "en": "Liquid cream",
+        "fr": "Crème liquide",
+        "gl": "Nata líquida",
+        "ca": "Nata líquida",
+        "eu": "Nata likidoa",
+        "it": "Panna liquida",
+        "de": "Flüssige Sahne"
+      },
+      "category": "dairy",
+      "grams_per_cho": 300,
+      "glycemic_index": 0
+    },
+    {
+      "name": {
+        "es": "Natillas",
+        "en": "Custard",
+        "fr": "Crème dessert",
+        "gl": "Natillas",
+        "ca": "Natilles",
+        "eu": "Natilla",
+        "it": "Crema",
+        "de": "Pudding"
+      },
+      "category": "dairy",
+      "grams_per_cho": 50,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Petit suisse",
+        "en": "Petit suisse",
+        "fr": "Petit suisse",
+        "gl": "Petit suisse",
+        "ca": "Petit suisse",
+        "eu": "Petit suisse",
+        "it": "Petit suisse",
+        "de": "Petit Suisse"
+      },
+      "category": "dairy",
+      "grams_per_cho": 70,
+      "glycemic_index": 40
+    },
+    {
+      "name": {
+        "es": "Queso fresco",
+        "en": "Fresh cheese",
+        "fr": "Fromage frais",
+        "gl": "Queixo fresco",
+        "ca": "Formatge fresc",
+        "eu": "Gazta freskoa",
+        "it": "Formaggio fresco",
+        "de": "Frischkäse"
+      },
+      "category": "dairy",
+      "grams_per_cho": 250,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Yogur natural (entero o desnatado)",
+        "en": "Natural whole or skim yogurt",
+        "fr": "Yaourt nature entier ou écrémé",
+        "gl": "Iogur natural (enteiro ou desnatado)",
+        "ca": "Iogurt natural sencer o desnatat",
+        "eu": "Naturala osoko edo desnatatua",
+        "it": "Yogurt naturale intero o scremato",
+        "de": "Naturjoghurt (Voll- oder Magermilch)"
+      },
+      "category": "dairy",
+      "grams_per_cho": 200,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Yogur desnat. sabores o fruta",
+        "en": "Flavored skim yogurt",
+        "fr": "Yaourt écrémé aromatisé",
+        "gl": "Iogur desnatado con sabores ou froita",
+        "ca": "Iogurt desnatat amb sabors o fruita",
+        "eu": "Desnatatua, zaporekin",
+        "it": "Yogurt scremato aromatizzato",
+        "de": "Magermilchjoghurt (aromatisiert)"
+      },
+      "category": "dairy",
+      "grams_per_cho": 125,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Yogur entero, sabores o fruta",
+        "en": "Flavored whole yogurt",
+        "fr": "Yaourt entier aromatisé",
+        "gl": "Iogur enteiro con sabores ou froita",
+        "ca": "Iogurt sencer amb sabors o fruita",
+        "eu": "Osoko, zaporekin",
+        "it": "Yogurt intero aromatizzato",
+        "de": "Vollmilchjoghurt (aromatisiert)"
+      },
+      "category": "dairy",
+      "grams_per_cho": 70,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Yogur líquido",
+        "en": "Drinkable yogurt",
+        "fr": "Yaourt liquide",
+        "gl": "Iogur líquido",
+        "ca": "Iogurt líquid",
+        "eu": "Likidoa",
+        "it": "Yogurt liquido",
+        "de": "Trinkjoghurt"
+      },
+      "category": "dairy",
+      "grams_per_cho": 70,
+      "glycemic_index": 40
+    },
+    {
+      "name": {
+        "es": "Yogur líquido (tipo Actimel)",
+        "en": "Actimel-style yogurt",
+        "fr": "Yaourt type Actimel",
+        "gl": "Iogur líquido (tipo Actimel)",
+        "ca": "Iogurt tipus Actimel",
+        "eu": "Actimel mota",
+        "it": "Yogurt tipo Actimel",
+        "de": "Actimel-Joghurt"
+      },
+      "category": "dairy",
+      "grams_per_cho": 100,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Yogur líquido 0% (tipo Actimel)",
+        "en": "Actimel-style yogurt 0%",
+        "fr": "Yaourt type Actimel 0%",
+        "gl": "Iogur líquido 0% (tipo Actimel)",
+        "ca": "Iogurt tipus Actimel 0%",
+        "eu": "Actimel mota 0%",
+        "it": "Yogurt tipo Actimel 0%",
+        "de": "Actimel-Joghurt 0%"
+      },
+      "category": "dairy",
+      "grams_per_cho": 200,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Arroz, crudo",
+        "en": "Raw rice",
+        "fr": "Riz cru",
+        "gl": "Arroz cru",
+        "ca": "Arròs cru",
+        "eu": "Gazi arroza",
+        "it": "Riso crudo",
+        "de": "Rohreis"
+      },
+      "category": "cereals",
+      "grams_per_cho": 13,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Arroz, cocido",
+        "en": "Cooked rice",
+        "fr": "Riz cuit",
+        "gl": "Arroz cocido",
+        "ca": "Arròs cuit",
+        "eu": "Arroz egosia",
+        "it": "Riso cotto",
+        "de": "Gekochter Reis"
+      },
+      "category": "cereals",
+      "grams_per_cho": 38,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Arroz integral, crudo",
+        "en": "Raw brown rice",
+        "fr": "Riz complet cru",
+        "gl": "Arroz integral cru",
+        "ca": "Arròs integral cru",
+        "eu": "Osoko arroza",
+        "it": "Riso integrale crudo",
+        "de": "Rohbraunreis"
+      },
+      "category": "cereals",
+      "grams_per_cho": 13,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Arroz integral, cocido",
+        "en": "Cooked brown rice",
+        "fr": "Riz complet cuit",
+        "gl": "Arroz integral cocido",
+        "ca": "Arròs integral cuit",
+        "eu": "Osoko arroza egosia",
+        "it": "Riso integrale cotto",
+        "de": "Gekochter Vollkornreis"
+      },
+      "category": "cereals",
+      "grams_per_cho": 40,
+      "glycemic_index": 50
+    },
+    {
+      "name": {
+        "es": "Arroz hinchado para desayuno",
+        "en": "Puffed rice for breakfast",
+        "fr": "Riz soufflé pour le petit déjeuner",
+        "gl": "Arroz para almorzo",
+        "ca": "Arròs inflat per esmorzar",
+        "eu": "Arroz inflat",
+        "it": "Riso soffiato per colazione",
+        "de": "Gepuffter Reis zum Frühstück"
+      },
+      "category": "cereals",
+      "grams_per_cho": 12,
+      "glycemic_index": 85
+    },
+    {
+      "name": {
+        "es": "Arroz salvaje, crudo",
+        "en": "Raw wild rice",
+        "fr": "Riz sauvage cru",
+        "gl": "Arroz salvaxe cru",
+        "ca": "Arròs salvatge cru",
+        "eu": "Basamortuko arroza",
+        "it": "Riso selvatico crudo",
+        "de": "Rohwildreis"
+      },
+      "category": "cereals",
+      "grams_per_cho": 13,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Arroz salvaje, cocido",
+        "en": "Cooked wild rice",
+        "fr": "Riz sauvage cuit",
+        "gl": "Arroz salvaxe cocido",
+        "ca": "Arròs salvatge cuit",
+        "eu": "Basamortuko arroza egosia",
+        "it": "Riso selvatico cotto",
+        "de": "Gekochter Wildreis"
+      },
+      "category": "cereals",
+      "grams_per_cho": 34,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Avena, cruda",
+        "en": "Raw oats",
+        "fr": "Avoine crue",
+        "gl": "Avena crúa",
+        "ca": "Avena cru",
+        "eu": "Avena kruda",
+        "it": "Avena cruda",
+        "de": "Roher Hafer"
+      },
+      "category": "cereals",
+      "grams_per_cho": 17,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Avena, cocido",
+        "en": "Cooked oats",
+        "fr": "Avoine cuite",
+        "gl": "Avena cocida",
+        "ca": "Avena cuita",
+        "eu": "Avena egosia",
+        "it": "Avena cotta",
+        "de": "Gekochte Haferflocken"
+      },
+      "category": "cereals",
+      "grams_per_cho": 34,
+      "glycemic_index": 40
+    },
+    {
+      "name": {
+        "es": "Avena copos",
+        "en": "Rolled oats",
+        "fr": "Flocons d'avoine",
+        "gl": "Avena en copos",
+        "ca": "Avena en copos",
+        "eu": "Avena kopo",
+        "it": "Fiocchi d'avena",
+        "de": "Haferflocken"
+      },
+      "category": "cereals",
+      "grams_per_cho": 15,
+      "glycemic_index": 40
+    },
+    {
+      "name": {
+        "es": "Boniato",
+        "en": "Sweet potato",
+        "fr": "Patate douce",
+        "gl": "Boniato",
+        "ca": "Moniato",
+        "eu": "Patata gozo",
+        "it": "Patata dolce",
+        "de": "Süßkartoffel"
+      },
+      "category": "cereals",
+      "grams_per_cho": 50,
+      "glycemic_index": 50
+    },
+    {
+      "name": {
+        "es": "Cebada, crudo",
+        "en": "Raw barley",
+        "fr": "Orge crue",
+        "gl": "Cebada cru",
+        "ca": "Orga cru",
+        "eu": "Hordi",
+        "it": "Orzo",
+        "de": "Rohe Gerste"
+      },
+      "category": "cereals",
+      "grams_per_cho": 14,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Cebada, cocido",
+        "en": "Cooked barley",
+        "fr": "Orge cuit",
+        "gl": "Cebada cocida",
+        "ca": "Orga cuita",
+        "eu": "Hordi egosia",
+        "it": "Orzo cotto",
+        "de": "Gekochte Gerste"
+      },
+      "category": "cereals",
+      "grams_per_cho": 42,
+      "glycemic_index": 45
+    },
+    {
+      "name": {
+        "es": "Centeno, crudo",
+        "en": "Raw rye",
+        "fr": "Seigle cru",
+        "gl": "Centeo cru",
+        "ca": "Segle cru",
+        "eu": "Segle kruda",
+        "it": "Segale crudo",
+        "de": "Rohroggen"
+      },
+      "category": "cereals",
+      "grams_per_cho": 15,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Centeno, cocido",
+        "en": "Cooked rye",
+        "fr": "Seigle cuit",
+        "gl": "Centeo cocido",
+        "ca": "Segle cuit",
+        "eu": "Segle egosia",
+        "it": "Segale cotto",
+        "de": "Gekochter Roggen"
+      },
+      "category": "cereals",
+      "grams_per_cho": 38,
+      "glycemic_index": 45
+    },
+    {
+      "name": {
+        "es": "Cereales desayuno",
+        "en": "Breakfast cereals",
+        "fr": "Céréales pour petit déjeuner",
+        "gl": "Cereais para almorzo",
+        "ca": "Cereals per esmorzar",
+        "eu": "Goizeko zerealak",
+        "it": "Cereali per la colazione",
+        "de": "Frühstückszerealien"
+      },
+      "category": "cereals",
+      "grams_per_cho": 15,
+      "glycemic_index": 77
+    },
+    {
+      "name": {
+        "es": "Cereales desay., ricos en fibra tipo All-bran, óptima",
+        "en": "High-fiber breakfast cereals (All-bran, Óptima)",
+        "fr": "Céréales riches en fibres (All-bran, Óptima)",
+        "gl": "Cereais ricos en fibra (All-bran, Óptima)",
+        "ca": "Cereals rics en fibra (All-bran, Óptima)",
+        "eu": "Zereal osasuntsuak (All-bran, Óptima)",
+        "it": "Cereali ricchi di fibre (All-bran, Óptima)",
+        "de": "Ballaststoffreiche Frühstückszerealien (All-bran, Óptima)"
+      },
+      "category": "cereals",
+      "grams_per_cho": 20,
+      "glycemic_index": 50
+    },
+    {
+      "name": {
+        "es": "Cuscús, crudo",
+        "en": "Raw couscous",
+        "fr": "Couscous cru",
+        "gl": "Cuscús cru",
+        "ca": "Cuscús cru",
+        "eu": "Cuscús krudo",
+        "it": "Couscous crudo",
+        "de": "Rohcouscous"
+      },
+      "category": "cereals",
+      "grams_per_cho": 15,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Cuscús, cocido",
+        "en": "Cooked couscous",
+        "fr": "Couscous cuit",
+        "gl": "Cuscús cocido",
+        "ca": "Cuscús cuit",
+        "eu": "Cuscús egosia",
+        "it": "Couscous cotto",
+        "de": "Gekochter Couscous"
+      },
+      "category": "cereals",
+      "grams_per_cho": 65,
+      "glycemic_index": 65
+    },
+    {
+      "name": {
+        "es": "Fideos de arroz cocidos",
+        "en": "Cooked Udon rice noodles",
+        "fr": "Nouilles de riz Udon cuites",
+        "gl": "Fideos de arroz cocidos",
+        "ca": "Fideus d'arròs tipus Udon cuits",
+        "eu": "Udon arrokoko fideoak",
+        "it": "Tagliatelle di riso Udon",
+        "de": "Gekochte Udon-Reisnudeln"
+      },
+      "category": "cereals",
+      "grams_per_cho": 50,
+      "glycemic_index": 50
+    },
+    {
+      "name": {
+        "es": "Fideos de soja, cocido",
+        "en": "Cooked soy noodles",
+        "fr": "Nouilles de soja cuites",
+        "gl": "Fideos de soia cocidos",
+        "ca": "Fideus de soja cuits",
+        "eu": "Soja fideoak",
+        "it": "Tagliatelle di soia",
+        "de": "Gekochte Soja-Nudeln"
+      },
+      "category": "cereals",
+      "grams_per_cho": 40,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Galleta (tipo Digestiva)",
+        "en": "Digestive biscuit",
+        "fr": "Biscuit digestif",
+        "gl": "Galleta (tipo digestiva)",
+        "ca": "Galeta digestiva",
+        "eu": "Digestiburu galleta",
+        "it": "Biscotto digestivo",
+        "de": "Vollkornkeks"
+      },
+      "category": "cereals",
+      "grams_per_cho": 16,
+      "glycemic_index": 65
+    },
+    {
+      "name": {
+        "es": "Galleta (tipo María)",
+        "en": "Maria biscuit",
+        "fr": "Biscuit Maria",
+        "gl": "Galleta (tipo María)",
+        "ca": "Galeta Maria",
+        "eu": "Maria galleta",
+        "it": "Biscotto Maria",
+        "de": "Maria-Keks"
+      },
+      "category": "cereals",
+      "grams_per_cho": 15,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Galleta (tipo Príncipe)",
+        "en": "Prince biscuit",
+        "fr": "Biscuit Prince",
+        "gl": "Galleta (tipo Príncipe)",
+        "ca": "Galeta Príncep",
+        "eu": "Prentsu galleta",
+        "it": "Biscotto Principe",
+        "de": "Prinz-Keks"
+      },
+      "category": "cereals",
+      "grams_per_cho": 14,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Galleta Sin Azúcar",
+        "en": "Sugar-free biscuit",
+        "fr": "Biscuit sans sucre",
+        "gl": "Galleta sen azucre",
+        "ca": "Galeta sense sucre",
+        "eu": "Azukririk gabe galleta",
+        "it": "Biscotto senza zucchero",
+        "de": "Zuckerfreier Keks"
+      },
+      "category": "cereals",
+      "grams_per_cho": 18,
+      "glycemic_index": 50
+    },
+    {
+      "name": {
+        "es": "Garbanzo, crudo",
+        "en": "Raw chickpea",
+        "fr": "Pois chiche cru",
+        "gl": "Garbanzo cru",
+        "ca": "Cigró cru",
+        "eu": "Garbantzu krudo",
+        "it": "Ceci crudo",
+        "de": "Roher Kichererbsen"
+      },
+      "category": "cereals",
+      "grams_per_cho": 20,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Garbanzo, cocido",
+        "en": "Cooked chickpea",
+        "fr": "Pois chiche cuit",
+        "gl": "Garbanzo cocido",
+        "ca": "Cigró cuit",
+        "eu": "Garbantzu egosia",
+        "it": "Ceci cotto",
+        "de": "Gekochte Kichererbse"
+      },
+      "category": "cereals",
+      "grams_per_cho": 50,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Guisantes congelados, frescos, de lata",
+        "en": "Peas (frozen, fresh or canned)",
+        "fr": "Pois (congelés, frais ou en conserve)",
+        "gl": "Guisantes (conxelados, frescos ou en lata)",
+        "ca": "Pèsols (congelats, frescos o de llauna)",
+        "eu": "Gasailak (izozki, fresko edo larruan)",
+        "it": "Piselli (congelati, freschi o in scatola)",
+        "de": "Erbsen (gefroren, frisch oder aus der Dose)"
+      },
+      "category": "cereals",
+      "grams_per_cho": 100,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Harina de trigo o maíz",
+        "en": "Wheat or corn flour",
+        "fr": "Farine de blé ou de maïs",
+        "gl": "Fariña de trigo ou millo",
+        "ca": "Farina de blat o blat de moro",
+        "eu": "Gelor zaharra",
+        "it": "Farina di frumento o mais",
+        "de": "Weizen- oder Maismehl"
+      },
+      "category": "cereals",
+      "grams_per_cho": 15,
+      "glycemic_index": 78
+    },
+    {
+      "name": {
+        "es": "Harina de centeno",
+        "en": "Rye flour",
+        "fr": "Farine de seigle",
+        "gl": "Fariña de centeno",
+        "ca": "Farina de sègol",
+        "eu": "Segle harina",
+        "it": "Farina di segale",
+        "de": "Roggenmehl"
+      },
+      "category": "cereals",
+      "grams_per_cho": 17,
+      "glycemic_index": 45
+    },
+    {
+      "name": {
+        "es": "Harina de soja",
+        "en": "Soy flour",
+        "fr": "Farine de soja",
+        "gl": "Fariña de soia",
+        "ca": "Farina de soja",
+        "eu": "Soja harina",
+        "it": "Farina di soia",
+        "de": "Sojamehl"
+      },
+      "category": "cereals",
+      "grams_per_cho": 70,
+      "glycemic_index": 25
+    },
+    {
+      "name": {
+        "es": "Hojaldre crudo",
+        "en": "Raw puff pastry",
+        "fr": "Pâte feuilletée crue",
+        "gl": "Hojaldre cru",
+        "ca": "Fulla de pasta cru",
+        "eu": "Hojaldre krudo",
+        "it": "Pasta sfoglia cruda",
+        "de": "Rohes Blätterteig"
+      },
+      "category": "cereals",
+      "grams_per_cho": 30,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Hojaldre horneado",
+        "en": "Baked puff pastry",
+        "fr": "Pâte feuilletée cuite",
+        "gl": "Hojaldre cocido",
+        "ca": "Fulla de pasta cuita",
+        "eu": "Hojaldre egosia",
+        "it": "Pasta sfoglia cotta",
+        "de": "Gebackener Blätterteig"
+      },
+      "category": "cereals",
+      "grams_per_cho": 24,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Judías blancas, crudo",
+        "en": "Raw white beans",
+        "fr": "Haricots blancs crus",
+        "gl": "Xudías blancas cruas",
+        "ca": "Mongetes blanques crues",
+        "eu": "Zuri fabada",
+        "it": "Fagioli bianchi crudi",
+        "de": "Rohe weiße Bohnen"
+      },
+      "category": "cereals",
+      "grams_per_cho": 20,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Judías blancas, cocido",
+        "en": "Cooked white beans",
+        "fr": "Haricots blancs cuits",
+        "gl": "Xudías blancas cocidas",
+        "ca": "Mongetes blanques cuites",
+        "eu": "Zuri fabada egosia",
+        "it": "Fagioli bianchi cotti",
+        "de": "Gekochte weiße Bohnen"
+      },
+      "category": "cereals",
+      "grams_per_cho": 50,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Lentejas, crudo",
+        "en": "Raw lentils",
+        "fr": "Lentilles crues",
+        "gl": "Lentellas cruas",
+        "ca": "Llenties crues",
+        "eu": "Lenteja kruda",
+        "it": "Lenticchie crude",
+        "de": "Rohe Linsen"
+      },
+      "category": "cereals",
+      "grams_per_cho": 20,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Lentejas, cocido",
+        "en": "Cooked lentils",
+        "fr": "Lentilles cuites",
+        "gl": "Lentellas cocidas",
+        "ca": "Llenties cuites",
+        "eu": "Lenteja egosia",
+        "it": "Lenticchie cotte",
+        "de": "Gekochte Linsen"
+      },
+      "category": "cereals",
+      "grams_per_cho": 50,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Maíz en lata",
+        "en": "Canned corn",
+        "fr": "Maïs en conserve",
+        "gl": "Millo en lata",
+        "ca": "Maís en llauna",
+        "eu": "Maitza larruan",
+        "it": "Mais in scatola",
+        "de": "Mais aus der Dose"
+      },
+      "category": "cereals",
+      "grams_per_cho": 50,
+      "glycemic_index": 65
+    },
+    {
+      "name": {
+        "es": "Maíz en lata sin azúcar añadido",
+        "en": "Canned corn without added sugar",
+        "fr": "Maïs en conserve sans sucre ajouté",
+        "gl": "Millo en lata sen azucre engadido",
+        "ca": "Maís en llauna sense sucre afegit",
+        "eu": "Gatzarik gabe",
+        "it": "Mais in scatola senza zucchero aggiunto",
+        "de": "Mais ohne Zuckerzusatz"
+      },
+      "category": "cereals",
+      "grams_per_cho": 90,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Maíz tostado (quicos)",
+        "en": "Toasted corn (quicos)",
+        "fr": "Maïs grillé (quicos)",
+        "gl": "Millo tostado (quicos)",
+        "ca": "Maís torrat (quicos)",
+        "eu": "Tostatutako maiz",
+        "it": "Mais tostato",
+        "de": "Gerösteter Mais"
+      },
+      "category": "cereals",
+      "grams_per_cho": 20,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Mijo, crudo",
+        "en": "Raw millet",
+        "fr": "Millet cru",
+        "gl": "Paínzo cru",
+        "ca": "Millet cru",
+        "eu": "Mijo kruda",
+        "it": "Miglio crudo",
+        "de": "Roher Hirse"
+      },
+      "category": "cereals",
+      "grams_per_cho": 15,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Mijo, cocido",
+        "en": "Cooked millet",
+        "fr": "Millet cuit",
+        "gl": "Paínzo cocido",
+        "ca": "Millet cuit",
+        "eu": "Mijo egosia",
+        "it": "Miglio cotto",
+        "de": "Gekochte Hirse"
+      },
+      "category": "cereals",
+      "grams_per_cho": 53,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Müesli",
+        "en": "Muesli",
+        "fr": "Muesli",
+        "gl": "Muesli",
+        "ca": "Muesli",
+        "eu": "Muesli",
+        "it": "Muesli",
+        "de": "Müsli"
+      },
+      "category": "cereals",
+      "grams_per_cho": 15,
+      "glycemic_index": 44
+    },
+    {
+      "name": {
+        "es": "Pan blanco o integral",
+        "en": "White or whole wheat bread",
+        "fr": "Pain blanc ou complet",
+        "gl": "Pan branco ou integral",
+        "ca": "Pa blanc o integral",
+        "eu": "Ogia",
+        "it": "Pane bianco o integrale",
+        "de": "Weiß- oder Vollkornbrot"
+      },
+      "category": "cereals",
+      "grams_per_cho": 20,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Pan de centeno",
+        "en": "Rye bread",
+        "fr": "Pain de seigle",
+        "gl": "Pan de centeno",
+        "ca": "Pa de sègol",
+        "eu": "Segleria ogia",
+        "it": "Pane di segale",
+        "de": "Roggenbrot"
+      },
+      "category": "cereals",
+      "grams_per_cho": 20,
+      "glycemic_index": 65
+    },
+    {
+      "name": {
+        "es": "Pan de molde",
+        "en": "Sliced bread",
+        "fr": "Pain de mie",
+        "gl": "Pan de molde",
+        "ca": "Pa de motlle",
+        "eu": "Bokal ogia",
+        "it": "Pane in cassetta",
+        "de": "Toastbrot"
+      },
+      "category": "cereals",
+      "grams_per_cho": 20,
+      "glycemic_index": 85
+    },
+    {
+      "name": {
+        "es": "Pan de hamburguesa o Frankfurt",
+        "en": "Burger or hot dog bun",
+        "fr": "Pain à hamburger ou hot dog",
+        "gl": "Pan de hamburguesa ou Frankfurt",
+        "ca": "Pa d'hamburguesa o Frankfurt",
+        "eu": "Hamburger ogia",
+        "it": "Panino per hamburger",
+        "de": "Burgerbrötchen"
+      },
+      "category": "cereals",
+      "grams_per_cho": 18,
+      "glycemic_index": 85
+    },
+    {
+      "name": {
+        "es": "Pan de trigo integral",
+        "en": "Whole wheat bread",
+        "fr": "Pain complet",
+        "gl": "Pan integral",
+        "ca": "Pa integral",
+        "eu": "Integral ogia",
+        "it": "Pane integrale",
+        "de": "Vollkornbrot"
+      },
+      "category": "cereals",
+      "grams_per_cho": 23,
+      "glycemic_index": 40
+    },
+    {
+      "name": {
+        "es": "Pan rallado",
+        "en": "Breadcrumbs",
+        "fr": "Chapelure",
+        "gl": "Pan relado",
+        "ca": "Pa ratllat",
+        "eu": "Ogi krusta",
+        "it": "Pangrattato",
+        "de": "Semmelbrösel"
+      },
+      "category": "cereals",
+      "grams_per_cho": 15,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Pan tostado o biscote",
+        "en": "Toast or rusks",
+        "fr": "Toast ou biscottes",
+        "gl": "Pan tostado ou biscote",
+        "ca": "Pa torrat o biscote",
+        "eu": "Tosta",
+        "it": "Toast o fette biscottate",
+        "de": "Toast oder Rusk"
+      },
+      "category": "cereals",
+      "grams_per_cho": 15,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Pan en bastoncitos",
+        "en": "Bread sticks",
+        "fr": "Bâtonnets de pain",
+        "gl": "Pan en bastonciños",
+        "ca": "Pa en bastonets",
+        "eu": "Ogi bastonak",
+        "it": "Grissini",
+        "de": "Brotstangen"
+      },
+      "category": "cereals",
+      "grams_per_cho": 15,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Pasta alimenticia, cruda",
+        "en": "Raw pasta",
+        "fr": "Pâtes crues",
+        "gl": "Pasta alimenticia crúa",
+        "ca": "Pasta alimentària cru",
+        "eu": "Pastarra kruda",
+        "it": "Pasta cruda",
+        "de": "Rohe Pasta"
+      },
+      "category": "cereals",
+      "grams_per_cho": 15,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Pasta alimenticia, cocido",
+        "en": "Cooked pasta",
+        "fr": "Pâtes cuites",
+        "gl": "Pasta alimenticia cocida",
+        "ca": "Pasta alimentària cuita",
+        "eu": "Pastarra egosia",
+        "it": "Pasta cotta",
+        "de": "Gekochte Pasta"
+      },
+      "category": "cereals",
+      "grams_per_cho": 50,
+      "glycemic_index": 50
+    },
+    {
+      "name": {
+        "es": "Pasta cruda al huevo",
+        "en": "Raw egg pasta",
+        "fr": "Pâtes aux œufs crues",
+        "gl": "Pasta cru ao ovo",
+        "ca": "Pasta a l'ou cru",
+        "eu": "Ostarriko pasta kruda",
+        "it": "Pasta all'uovo cruda",
+        "de": "Rohe Eiernudeln"
+      },
+      "category": "cereals",
+      "grams_per_cho": 16,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Patata cocida, hervida",
+        "en": "Boiled potato",
+        "fr": "Pomme de terre bouillie",
+        "gl": "Pataca cocida hervida",
+        "ca": "Patata bullida",
+        "eu": "Patata egosia",
+        "it": "Patata bollita",
+        "de": "Gekochte Kartoffel"
+      },
+      "category": "cereals",
+      "grams_per_cho": 50,
+      "glycemic_index": 65
+    },
+    {
+      "name": {
+        "es": "Patata, horno o asada",
+        "en": "Baked potato",
+        "fr": "Pomme de terre au four",
+        "gl": "Pataca ao forno",
+        "ca": "Patata al forn",
+        "eu": "Labe egosia",
+        "it": "Patata al forno",
+        "de": "Gebackene Kartoffel"
+      },
+      "category": "cereals",
+      "grams_per_cho": 35,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Patatas fritas",
+        "en": "Fried potatoes",
+        "fr": "Pommes de terre frites",
+        "gl": "Patacas fritas",
+        "ca": "Patates fregides",
+        "eu": "Patata frijituak",
+        "it": "Patate fritte",
+        "de": "Pommes frites"
+      },
+      "category": "cereals",
+      "grams_per_cho": 30,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Patatas chips",
+        "en": "Potato chips",
+        "fr": "Chips de pomme de terre",
+        "gl": "Patacas chips",
+        "ca": "Xips de patata",
+        "eu": "Patata txips",
+        "it": "Patatine",
+        "de": "Kartoffelchips"
+      },
+      "category": "cereals",
+      "grams_per_cho": 20,
+      "glycemic_index": 95
+    },
+    {
+      "name": {
+        "es": "Puré de patatas, copos",
+        "en": "Mashed potato flakes",
+        "fr": "Purée de pommes de terre en flocons",
+        "gl": "Puré de patacas, copos",
+        "ca": "Puré de patates, copos",
+        "eu": "Patata purea (flokoak)",
+        "it": "Purè di patate in fiocchi",
+        "de": "Kartoffelbrei-Flocken"
+      },
+      "category": "cereals",
+      "grams_per_cho": 15,
+      "glycemic_index": 90
+    },
+    {
+      "name": {
+        "es": "Puré de patatas, elabor. con leche",
+        "en": "Mashed potatoes made with milk",
+        "fr": "Purée de pommes de terre préparée avec du lait",
+        "gl": "Puré de patacas con leite",
+        "ca": "Puré de patates amb llet",
+        "eu": "Patata purea esnearekin",
+        "it": "Purè di patate con latte",
+        "de": "Kartoffelbrei mit Milch"
+      },
+      "category": "cereals",
+      "grams_per_cho": 80,
+      "glycemic_index": 90
+    },
+    {
+      "name": {
+        "es": "Quínoa, crudo",
+        "en": "Raw quinoa",
+        "fr": "Quinoa crue",
+        "gl": "Quínoa cru",
+        "ca": "Quinoa cru",
+        "eu": "Quinoa kruda",
+        "it": "Quinoa cruda",
+        "de": "Rohquinoa"
+      },
+      "category": "cereals",
+      "grams_per_cho": 19,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Quínoa, cocido",
+        "en": "Cooked quinoa",
+        "fr": "Quinoa cuite",
+        "gl": "Quínoa cocida",
+        "ca": "Quinoa cuita",
+        "eu": "Quinoa egosia",
+        "it": "Quinoa cotta",
+        "de": "Gekochte Quinoa"
+      },
+      "category": "cereals",
+      "grams_per_cho": 48,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Sémola de trigo, crudo",
+        "en": "Raw semolina",
+        "fr": "Semoule de blé crue",
+        "gl": "Sémola de trigo cru",
+        "ca": "Sèmola de blat cru",
+        "eu": "Trigo sarraceno kruda",
+        "it": "Semolina cruda",
+        "de": "Rohgrieß"
+      },
+      "category": "cereals",
+      "grams_per_cho": 14,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Sémola de trigo, cocido",
+        "en": "Cooked semolina",
+        "fr": "Semoule de blé cuite",
+        "gl": "Sémola de trigo cocida",
+        "ca": "Sèmola de blat cuita",
+        "eu": "Trigo sarraceno egosia",
+        "it": "Semolina cotta",
+        "de": "Gekochter Grieß"
+      },
+      "category": "cereals",
+      "grams_per_cho": 90,
+      "glycemic_index": 67
+    },
+    {
+      "name": {
+        "es": "Aguacate Libre",
+        "en": "Avocado (free)",
+        "fr": "Avocat libre",
+        "gl": "Aguacate libre",
+        "ca": "Alvocat lliure",
+        "eu": "Avokado",
+        "it": "Avocado libero",
+        "de": "Avocado"
+      },
+      "category": "fruits",
+      "grams_per_cho": 10,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Albaricoque",
+        "en": "Apricot",
+        "fr": "Abricot",
+        "gl": "Albaricoque",
+        "ca": "Albericoc",
+        "eu": "Albariko",
+        "it": "Albicocca",
+        "de": "Aprikose"
+      },
+      "category": "fruits",
+      "grams_per_cho": 150,
+      "glycemic_index": 30
+    },
+    {
+      "name": {
+        "es": "Arándano",
+        "en": "Blueberry",
+        "fr": "Myrtille",
+        "gl": "Arándano",
+        "ca": "Myrtille",
+        "eu": "Mutilla",
+        "it": "Mirtillo",
+        "de": "Blaubeere"
+      },
+      "category": "fruits",
+      "grams_per_cho": 100,
+      "glycemic_index": 25
+    },
+    {
+      "name": {
+        "es": "Castaña cruda",
+        "en": "Raw chestnut",
+        "fr": "Châtaigne crue",
+        "gl": "Castaña cruda",
+        "ca": "Castanya crua",
+        "eu": "Kastaina kruda",
+        "it": "Castagna cruda",
+        "de": "Rohe Kastanie"
+      },
+      "category": "fruits",
+      "grams_per_cho": 30,
+      "glycemic_index": 65
+    },
+    {
+      "name": {
+        "es": "Castaña tostada",
+        "en": "Roasted chestnut",
+        "fr": "Châtaigne grillée",
+        "gl": "Castaña tostada",
+        "ca": "Castanya torrada",
+        "eu": "Kastaina errotatua",
+        "it": "Castagna arrosto",
+        "de": "Geröstete Kastanie"
+      },
+      "category": "fruits",
+      "grams_per_cho": 25,
+      "glycemic_index": 65
+    },
+    {
+      "name": {
+        "es": "Cereza",
+        "en": "Cherry",
+        "fr": "Cerisier",
+        "gl": "Cereixa",
+        "ca": "Cirera",
+        "eu": "Cereza",
+        "it": "Ciliegia",
+        "de": "Kirsche"
+      },
+      "category": "fruits",
+      "grams_per_cho": 100,
+      "glycemic_index": 25
+    },
+    {
+      "name": {
+        "es": "Chirimoya",
+        "en": "Custard apple",
+        "fr": "Pomme-cannelle",
+        "gl": "Chirimoia",
+        "ca": "Chirimoya",
+        "eu": "Chirimoya",
+        "it": "Custard apple",
+        "de": "Zimtapfel"
+      },
+      "category": "fruits",
+      "grams_per_cho": 50,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Ciruela",
+        "en": "Plum",
+        "fr": "Prune",
+        "gl": "Ameixa",
+        "ca": "Pruna",
+        "eu": "Pruna",
+        "it": "Prugna",
+        "de": "Pflaume"
+      },
+      "category": "fruits",
+      "grams_per_cho": 100,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Coco fresco",
+        "en": "Fresh coconut",
+        "fr": "Noix de coco fraîche",
+        "gl": "Coco fresco",
+        "ca": "Coco fresc",
+        "eu": "Kokoa freskoa",
+        "it": "Cocco fresco",
+        "de": "Frische Kokosnuss"
+      },
+      "category": "fruits",
+      "grams_per_cho": 300,
+      "glycemic_index": 45
+    },
+    {
+      "name": {
+        "es": "Coco seco",
+        "en": "Dried coconut",
+        "fr": "Noix de coco séchée",
+        "gl": "Coco seco",
+        "ca": "Coco sec",
+        "eu": "Kokoa lehorria",
+        "it": "Cocco secco",
+        "de": "Getrocknete Kokosnuss"
+      },
+      "category": "fruits",
+      "grams_per_cho": 18,
+      "glycemic_index": 45
+    },
+    {
+      "name": {
+        "es": "Dátil",
+        "en": "Date",
+        "fr": "Datte",
+        "gl": "Dátil",
+        "ca": "Dàtil",
+        "eu": "Dattel",
+        "it": "Dattero",
+        "de": "Dattel"
+      },
+      "category": "fruits",
+      "grams_per_cho": 15,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Frambuesa",
+        "en": "Raspberry",
+        "fr": "Framboise",
+        "gl": "Framboesa",
+        "ca": "Frambuesa",
+        "eu": "Frambuesa",
+        "it": "Lampone",
+        "de": "Himbeere"
+      },
+      "category": "fruits",
+      "grams_per_cho": 150,
+      "glycemic_index": 25
+    },
+    {
+      "name": {
+        "es": "Fresones",
+        "en": "Strawberries",
+        "fr": "Fraises",
+        "gl": "Amorodos (Fresóns)",
+        "ca": "Fresones",
+        "eu": "Maimo",
+        "it": "Fragole",
+        "de": "Erdbeeren"
+      },
+      "category": "fruits",
+      "grams_per_cho": 200,
+      "glycemic_index": 25
+    },
+    {
+      "name": {
+        "es": "Granada",
+        "en": "Pomegranate",
+        "fr": "Grenade",
+        "gl": "Granada",
+        "ca": "Grana",
+        "eu": "Granada",
+        "it": "Melograno",
+        "de": "Granatapfel"
+      },
+      "category": "fruits",
+      "grams_per_cho": 70,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Grosella",
+        "en": "Red currant",
+        "fr": "Groseille",
+        "gl": "Grosella",
+        "ca": "Grosella",
+        "eu": "Grosela",
+        "it": "Ribes",
+        "de": "Johannisbeere"
+      },
+      "category": "fruits",
+      "grams_per_cho": 200,
+      "glycemic_index": 25
+    },
+    {
+      "name": {
+        "es": "Grosella negra",
+        "en": "Black currant",
+        "fr": "Cassis",
+        "gl": "Grosella negra",
+        "ca": "Grosella negra",
+        "eu": "Grosela beltza",
+        "it": "Ribes nero",
+        "de": "Schwarze Johannisbeere"
+      },
+      "category": "fruits",
+      "grams_per_cho": 140,
+      "glycemic_index": 15
+    },
+    {
+      "name": {
+        "es": "Higos",
+        "en": "Figs",
+        "fr": "Figues",
+        "gl": "Figos",
+        "ca": "Fics",
+        "eu": "Inbi",
+        "it": "Fichi",
+        "de": "Feigen"
+      },
+      "category": "fruits",
+      "grams_per_cho": 100,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Kiwi",
+        "en": "Kiwi",
+        "fr": "Kiwi",
+        "gl": "Kiwi",
+        "ca": "Kiwi",
+        "eu": "Kiwi",
+        "it": "Kiwi",
+        "de": "Kiwi"
+      },
+      "category": "fruits",
+      "grams_per_cho": 100,
+      "glycemic_index": 50
+    },
+    {
+      "name": {
+        "es": "Litchi",
+        "en": "Lychee",
+        "fr": "Litchi",
+        "gl": "Litchi",
+        "ca": "Litchi",
+        "eu": "Litchi",
+        "it": "Litchi",
+        "de": "Litschi"
+      },
+      "category": "fruits",
+      "grams_per_cho": 70,
+      "glycemic_index": 50
+    },
+    {
+      "name": {
+        "es": "Mandarina",
+        "en": "Mandarin",
+        "fr": "Mandarine",
+        "gl": "Mandarina",
+        "ca": "Mandarina",
+        "eu": "Mandarina",
+        "it": "Mandarino",
+        "de": "Mandarine"
+      },
+      "category": "fruits",
+      "grams_per_cho": 100,
+      "glycemic_index": 30
+    },
+    {
+      "name": {
+        "es": "Mango",
+        "en": "Mango",
+        "fr": "Mangue",
+        "gl": "Mango",
+        "ca": "Mango",
+        "eu": "Mango",
+        "it": "Mango",
+        "de": "Mango"
+      },
+      "category": "fruits",
+      "grams_per_cho": 100,
+      "glycemic_index": 50
+    },
+    {
+      "name": {
+        "es": "Manzana",
+        "en": "Apple",
+        "fr": "Pomme",
+        "gl": "Mazá",
+        "ca": "Poma",
+        "eu": "Sagarra",
+        "it": "Mela",
+        "de": "Apfel"
+      },
+      "category": "fruits",
+      "grams_per_cho": 100,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Manzana asada",
+        "en": "Baked apple",
+        "fr": "Pomme cuite",
+        "gl": "Mazá asada",
+        "ca": "Poma cuita",
+        "eu": "Sagarra labea",
+        "it": "Mela cotta",
+        "de": "Gebackener Apfel"
+      },
+      "category": "fruits",
+      "grams_per_cho": 50,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Melocotón",
+        "en": "Peach",
+        "fr": "Pêche",
+        "gl": "Melocotón",
+        "ca": "Meló",
+        "eu": "Melokoto",
+        "it": "Pesca",
+        "de": "Pfirsich"
+      },
+      "category": "fruits",
+      "grams_per_cho": 100,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Melocotón en conserva",
+        "en": "Canned peach",
+        "fr": "Pêche en conserve",
+        "gl": "Melocotón en conserva",
+        "ca": "Meló en conserva",
+        "eu": "Melokoto enlatatua",
+        "it": "Pesca in scatola",
+        "de": "Konservierter Pfirsich"
+      },
+      "category": "fruits",
+      "grams_per_cho": 50,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Melón",
+        "en": "Melon",
+        "fr": "Melon",
+        "gl": "Melón",
+        "ca": "Meló",
+        "eu": "Meloia",
+        "it": "Melone",
+        "de": "Melone"
+      },
+      "category": "fruits",
+      "grams_per_cho": 200,
+      "glycemic_index": 60
+    },
+    {
+      "name": {
+        "es": "Membrillo",
+        "en": "Quince",
+        "fr": "Coing",
+        "gl": "Marmelo",
+        "ca": "Membril",
+        "eu": "Membrillo",
+        "it": "Cachi",
+        "de": "Quitte"
+      },
+      "category": "fruits",
+      "grams_per_cho": 150,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Dulce de membrillo",
+        "en": "Sweet quince paste",
+        "fr": "Pâte de coing",
+        "gl": "Doce de marmelo",
+        "ca": "Membril dolç",
+        "eu": "Membrillo gozoa",
+        "it": "Pasta di cotogno",
+        "de": "Quittengelee"
+      },
+      "category": "fruits",
+      "grams_per_cho": 20,
+      "glycemic_index": 65
+    },
+    {
+      "name": {
+        "es": "Moras",
+        "en": "Blackberries",
+        "fr": "Mûres",
+        "gl": "Moras",
+        "ca": "Mores",
+        "eu": "Mora",
+        "it": "More",
+        "de": "Brombeeren"
+      },
+      "category": "fruits",
+      "grams_per_cho": 150,
+      "glycemic_index": 25
+    },
+    {
+      "name": {
+        "es": "Naranja",
+        "en": "Orange",
+        "fr": "Orange",
+        "gl": "Laranxa",
+        "ca": "Taronja",
+        "eu": "Orange",
+        "it": "Arancia",
+        "de": "Orange"
+      },
+      "category": "fruits",
+      "grams_per_cho": 100,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Nectarina",
+        "en": "Nectarine",
+        "fr": "Nectarine",
+        "gl": "Nectarina",
+        "ca": "Nectarina",
+        "eu": "Nectarina",
+        "it": "Nettarina",
+        "de": "Nektarine"
+      },
+      "category": "fruits",
+      "grams_per_cho": 100,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Níspero",
+        "en": "Loquat",
+        "fr": "Néflier",
+        "gl": "Níspero",
+        "ca": "Nísper",
+        "eu": "Nispero",
+        "it": "Nespola",
+        "de": "Mispel"
+      },
+      "category": "fruits",
+      "grams_per_cho": 100,
+      "glycemic_index": 55
+    },
+    {
+      "name": {
+        "es": "Pera",
+        "en": "Pear",
+        "fr": "Poire",
+        "gl": "Pera",
+        "ca": "Pera",
+        "eu": "Pera",
+        "it": "Pera",
+        "de": "Birne"
+      },
+      "category": "fruits",
+      "grams_per_cho": 100,
+      "glycemic_index": 30
+    },
+    {
+      "name": {
+        "es": "Papaya",
+        "en": "Papaya",
+        "fr": "Papaye",
+        "gl": "Papaia",
+        "ca": "Papaya",
+        "eu": "Papaya",
+        "it": "Papaya",
+        "de": "Papaya"
+      },
+      "category": "fruits",
+      "grams_per_cho": 125,
+      "glycemic_index": 55
+    },
+    {
+      "name": {
+        "es": "Paraguayo",
+        "en": "Guava",
+        "fr": "Goyave",
+        "gl": "Paraguaio",
+        "ca": "Guaiaba",
+        "eu": "Paraguayo",
+        "it": "Guava",
+        "de": "Guave"
+      },
+      "category": "fruits",
+      "grams_per_cho": 100,
+      "glycemic_index": 35
+    },
+    {
+      "name": {
+        "es": "Piña",
+        "en": "Pineapple",
+        "fr": "Ananas",
+        "gl": "Piña",
+        "ca": "Pinya",
+        "eu": "Ananas",
+        "it": "Ananas",
+        "de": "Ananas"
+      },
+      "category": "fruits",
+      "grams_per_cho": 100,
+      "glycemic_index": 45
+    },
+    {
+      "name": {
+        "es": "Piña en conserva",
+        "en": "Canned pineapple",
+        "fr": "Ananas en conserve",
+        "gl": "Piña en conserva",
+        "ca": "Pinya en conserva",
+        "eu": "Ananas enlatatua",
+        "it": "Ananas in scatola",
+        "de": "Dosenananas"
+      },
+      "category": "fruits",
+      "grams_per_cho": 85,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Piña en su jugo",
+        "en": "Pineapple in its juice",
+        "fr": "Ananas dans son jus",
+        "gl": "Piña no seu zume",
+        "ca": "Pinya en el seu suc",
+        "eu": "Ananas sukoan",
+        "it": "Ananas nel suo succo",
+        "de": "Ananas im Saft"
+      },
+      "category": "fruits",
+      "grams_per_cho": 60,
+      "glycemic_index": 50
+    },
+    {
+      "name": {
+        "es": "Plátano",
+        "en": "Banana",
+        "fr": "Banane",
+        "gl": "Plátano",
+        "ca": "Plàtan",
+        "eu": "Banana",
+        "it": "Banana",
+        "de": "Banane"
+      },
+      "category": "fruits",
+      "grams_per_cho": 50,
+      "glycemic_index": 50
+    },
+    {
+      "name": {
+        "es": "Sandía",
+        "en": "Watermelon",
+        "fr": "Pastèque",
+        "gl": "Sandía",
+        "ca": "Síndria",
+        "eu": "Sandía",
+        "it": "Anguria",
+        "de": "Wassermelone"
+      },
+      "category": "fruits",
+      "grams_per_cho": 200,
+      "glycemic_index": 75
+    },
+    {
+      "name": {
+        "es": "Uva",
+        "en": "Grape",
+        "fr": "Raisin",
+        "gl": "Uva",
+        "ca": "Raïm",
+        "eu": "Uva",
+        "it": "Uva",
+        "de": "Traube"
+      },
+      "category": "fruits",
+      "grams_per_cho": 50,
+      "glycemic_index": 45
+    },
+    {
+      "name": {
+        "es": "Acelga",
+        "en": "Swiss chard",
+        "fr": "Bette à carde",
+        "gl": "Acelga",
+        "ca": "Escarola",
+        "eu": "Acelga",
+        "it": "Bietola",
+        "de": "Mangold"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 300,
+      "glycemic_index": 15
+    },
+    {
+      "name": {
+        "es": "Ajo",
+        "en": "Garlic",
+        "fr": "Ail",
+        "gl": "Allo",
+        "ca": "All",
+        "eu": "Baratza",
+        "it": "Aglio",
+        "de": "Knoblauch"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 40,
+      "glycemic_index": 30
+    },
+    {
+      "name": {
+        "es": "Alcachofa",
+        "en": "Artichoke",
+        "fr": "Artichaut",
+        "gl": "Alcachofa",
+        "ca": "Carxofa",
+        "eu": "Artisoka",
+        "it": "Carciofo",
+        "de": "Artischocke"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 300,
+      "glycemic_index": 20
+    },
+    {
+      "name": {
+        "es": "Brócoli",
+        "en": "Broccoli",
+        "fr": "Brocoli",
+        "gl": "Brócoli",
+        "ca": "Bròcoli",
+        "eu": "Brokolia",
+        "it": "Broccoli",
+        "de": "Brokkoli"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 300,
+      "glycemic_index": 15
+    },
+    {
+      "name": {
+        "es": "Calabacín",
+        "en": "Zucchini",
+        "fr": "Courgette",
+        "gl": "Calabacín",
+        "ca": "Carabassó",
+        "eu": "Kalabacín",
+        "it": "Zucchina",
+        "de": "Zucchini"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 300,
+      "glycemic_index": 15
+    },
+    {
+      "name": {
+        "es": "Calabaza",
+        "en": "Pumpkin",
+        "fr": "Potiron",
+        "gl": "Cabaza",
+        "ca": "Carabassa",
+        "eu": "Kalabaza",
+        "it": "Zucca",
+        "de": "Kürbis"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 200,
+      "glycemic_index": 75
+    },
+    {
+      "name": {
+        "es": "Cardo",
+        "en": "Cardoon",
+        "fr": "Cardon",
+        "gl": "Cardo",
+        "ca": "Card",
+        "eu": "Cardo",
+        "it": "Cardo",
+        "de": "Kard"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 300,
+      "glycemic_index": 15
+    },
+    {
+      "name": {
+        "es": "Cebolla",
+        "en": "Onion",
+        "fr": "Oignon",
+        "gl": "Cebolla",
+        "ca": "Ceba",
+        "eu": "Tipula",
+        "it": "Cipolla",
+        "de": "Zwiebel"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 150,
+      "glycemic_index": 15
+    },
+    {
+      "name": {
+        "es": "Cebolla frita en aros",
+        "en": "Fried onion rings",
+        "fr": "Oignons frits en rondelles",
+        "gl": "Cebolla frita en aros",
+        "ca": "Ceba fregida en anells",
+        "eu": "Tipula frijituak",
+        "it": "Anelli di cipolla fritti",
+        "de": "Zwiebelringe"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 100,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Col Bruselas, Coliflor",
+        "en": "Brussels sprouts, Cauliflower",
+        "fr": "Choux de Bruxelles, Chou-fleur",
+        "gl": "Col Bruselas, Coliflor",
+        "ca": "Col de Brussel·les, Coliflor",
+        "eu": "Brussels sprout, coliflor",
+        "it": "Cavoletti di Bruxelles, Cavolfiore",
+        "de": "Rosenkohl, Blumenkohl"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 300,
+      "glycemic_index": 15
+    },
+    {
+      "name": {
+        "es": "Endibia",
+        "en": "Endive",
+        "fr": "Endive",
+        "gl": "Endibia",
+        "ca": "Endívia",
+        "eu": "Endibiko",
+        "it": "Indivia",
+        "de": "Endivie"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 300,
+      "glycemic_index": 15
+    },
+    {
+      "name": {
+        "es": "Judía verde",
+        "en": "Green bean",
+        "fr": "Haricot vert",
+        "gl": "Xudía verde",
+        "ca": "Mongeta verda",
+        "eu": "Bela",
+        "it": "Fagiolino",
+        "de": "Grüne Bohne"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 250,
+      "glycemic_index": 30
+    },
+    {
+      "name": {
+        "es": "Lechuga",
+        "en": "Lettuce",
+        "fr": "Laitue",
+        "gl": "Leituga",
+        "ca": "Enciam",
+        "eu": "Letxuga",
+        "it": "Lattuga",
+        "de": "Kopfsalat"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 300,
+      "glycemic_index": 15
+    },
+    {
+      "name": {
+        "es": "Nabo",
+        "en": "Turnip",
+        "fr": "Navet",
+        "gl": "Nabo",
+        "ca": "Nap",
+        "eu": "Nabo",
+        "it": "Rapa",
+        "de": "Rübe"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 300,
+      "glycemic_index": 30
+    },
+    {
+      "name": {
+        "es": "Palmitos",
+        "en": "Hearts of palm",
+        "fr": "Cœurs de palmier",
+        "gl": "Palmitos",
+        "ca": "Palmit",
+        "eu": "Palmitos",
+        "it": "Cuori di palma",
+        "de": "Palmherzen"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 200,
+      "glycemic_index": 20
+    },
+    {
+      "name": {
+        "es": "Pepino",
+        "en": "Cucumber",
+        "fr": "Concombre",
+        "gl": "Pepino",
+        "ca": "Cogombre",
+        "eu": "Pepinoa",
+        "it": "Cetriolo",
+        "de": "Gurke"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 300,
+      "glycemic_index": 15
+    },
+    {
+      "name": {
+        "es": "Pimiento rojo/verde",
+        "en": "Red/green pepper",
+        "fr": "Poivron rouge/vert",
+        "gl": "Pemento vermello/verde",
+        "ca": "Pebrot vermell/verd",
+        "eu": "Piper gorria/berdea",
+        "it": "Peperone rosso/verde",
+        "de": "Roter/grüner Paprika"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 300,
+      "glycemic_index": 15
+    },
+    {
+      "name": {
+        "es": "Puerro",
+        "en": "Leek",
+        "fr": "Poireau",
+        "gl": "Porro",
+        "ca": "Porro",
+        "eu": "Porro",
+        "it": "Porro",
+        "de": "Lauch"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 300,
+      "glycemic_index": 15
+    },
+    {
+      "name": {
+        "es": "Rábano",
+        "en": "Radish",
+        "fr": "Radis",
+        "gl": "Rábano",
+        "ca": "Rave",
+        "eu": "Erraban",
+        "it": "Ravanello",
+        "de": "Radieschen"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 300,
+      "glycemic_index": 15
+    },
+    {
+      "name": {
+        "es": "Remolacha",
+        "en": "Beetroot",
+        "fr": "Betterave",
+        "gl": "Remolacha",
+        "ca": "Remolatxa",
+        "eu": "Beeta",
+        "it": "Barbabietola",
+        "de": "Rote Bete"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 150,
+      "glycemic_index": 30
+    },
+    {
+      "name": {
+        "es": "Repollo",
+        "en": "Cabbage",
+        "fr": "Chou",
+        "gl": "Repolo",
+        "ca": "Col",
+        "eu": "Col",
+        "it": "Cavolo",
+        "de": "Kohl"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 300,
+      "glycemic_index": 15
+    },
+    {
+      "name": {
+        "es": "Setas",
+        "en": "Mushrooms",
+        "fr": "Champignons",
+        "gl": "Setas",
+        "ca": "Bolets",
+        "eu": "Sagar",
+        "it": "Funghi",
+        "de": "Pilze"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 300,
+      "glycemic_index": 15
+    },
+    {
+      "name": {
+        "es": "Soja en brotes",
+        "en": "Soybean sprouts",
+        "fr": "Pousses de soja",
+        "gl": "Brotes de soia",
+        "ca": "Brots de soja",
+        "eu": "Soja haziak",
+        "it": "Germogli di soia",
+        "de": "Sojasprossen"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 300,
+      "glycemic_index": 15
+    },
+    {
+      "name": {
+        "es": "Tomate",
+        "en": "Tomato",
+        "fr": "Tomate",
+        "gl": "Tomate",
+        "ca": "Tomata",
+        "eu": "Tomate",
+        "it": "Pomodoro",
+        "de": "Tomate"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 300,
+      "glycemic_index": 30
+    },
+    {
+      "name": {
+        "es": "Zanahoria",
+        "en": "Carrot",
+        "fr": "Carotte",
+        "gl": "Cenoura",
+        "ca": "Pastanaga",
+        "eu": "Karota",
+        "it": "Carota",
+        "de": "Karotte"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 150,
+      "glycemic_index": 30
+    },
+    {
+      "name": {
+        "es": "Zanahoria hervida",
+        "en": "Boiled carrot",
+        "fr": "Carotte bouillie",
+        "gl": "Cenoura fervida",
+        "ca": "Pastanaga bullida",
+        "eu": "Karota egosia",
+        "it": "Carota bollita",
+        "de": "Gekochte Karotte"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 200,
+      "glycemic_index": 85
+    },
+    {
+      "name": {
+        "es": "Zanahoria en conserva",
+        "en": "Canned carrot",
+        "fr": "Carotte en conserve",
+        "gl": "Cenoura en conserva",
+        "ca": "Pastanaga en conserva",
+        "eu": "Karota enlatatua",
+        "it": "Carota in scatola",
+        "de": "Karotte aus der Dose"
+      },
+      "category": "vegetables",
+      "grams_per_cho": 225,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Azúcar blanco",
+        "en": "White sugar",
+        "fr": "Sucre blanc",
+        "gl": "Azucre branco",
+        "ca": "Sucre blanc",
+        "eu": "Azukrea zuri",
+        "it": "Zucchero bianco",
+        "de": "Weißzucker"
+      },
+      "category": "sugars",
+      "grams_per_cho": 10,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Azúcar moreno",
+        "en": "Brown sugar",
+        "fr": "Sucre brun",
+        "gl": "Azucre moreno",
+        "ca": "Sucre morè",
+        "eu": "Azukrea marroi",
+        "it": "Zucchero di canna",
+        "de": "Braunzucker"
+      },
+      "category": "sugars",
+      "grams_per_cho": 10,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Fructosa (edulcorante)",
+        "en": "Fructose (sweetener)",
+        "fr": "Fructose (édulcorant)",
+        "gl": "Fructosa (edulcorante)",
+        "ca": "Fructosa (edulcorant)",
+        "eu": "Fructosa (edulkoratzailea)",
+        "it": "Fruttosio (dolcificante)",
+        "de": "Fructose (Süßstoff)"
+      },
+      "category": "sugars",
+      "grams_per_cho": 10,
+      "glycemic_index": 20
+    },
+    {
+      "name": {
+        "es": "Glucosa (líquida o en pastillas)",
+        "en": "Glucose (liquid or tablets)",
+        "fr": "Glucose (liquide ou en comprimés)",
+        "gl": "Glucosa (líquida ou en pastillas)",
+        "ca": "Glucosa (líquida o en pastilles)",
+        "eu": "Glukosa (likidoa edo pastilla)",
+        "it": "Glucosio (liquido o compresse)",
+        "de": "Glukose (flüssig oder Tabletten)"
+      },
+      "category": "sugars",
+      "grams_per_cho": 10,
+      "glycemic_index": 100
+    },
+    {
+      "name": {
+        "es": "Miel",
+        "en": "Honey",
+        "fr": "Miel",
+        "gl": "Mel",
+        "ca": "Mel",
+        "eu": "Miel",
+        "it": "Miele",
+        "de": "Honig"
+      },
+      "category": "sugars",
+      "grams_per_cho": 13,
+      "glycemic_index": 85
+    },
+    {
+      "name": {
+        "es": "Bizcocho o melindro",
+        "en": "Sponge cake",
+        "fr": "Gâteau éponge",
+        "gl": "Bizcoito ou melindro",
+        "ca": "Pastís esponjós",
+        "eu": "Bizcocho",
+        "it": "Pan di Spagna",
+        "de": "Biskuit"
+      },
+      "category": "baked_goods",
+      "grams_per_cho": 20,
+      "glycemic_index": 65
+    },
+    {
+      "name": {
+        "es": "Bollería, en general",
+        "en": "Pastry (general)",
+        "fr": "Viennoiserie (générale)",
+        "gl": "Pastelería en xeral",
+        "ca": "Pastisseria (en general)",
+        "eu": "Pasteleria orokorra",
+        "it": "Pasticceria",
+        "de": "Gebäck"
+      },
+      "category": "baked_goods",
+      "grams_per_cho": 20,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Cruasán",
+        "en": "Croissant",
+        "fr": "Croissant",
+        "gl": "Cruasan",
+        "ca": "Croissant",
+        "eu": "Kruasán",
+        "it": "Croissant",
+        "de": "Croissant"
+      },
+      "category": "baked_goods",
+      "grams_per_cho": 20,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Churros",
+        "en": "Churros",
+        "fr": "Churros",
+        "gl": "Churros",
+        "ca": "Churros",
+        "eu": "Churros",
+        "it": "Churros",
+        "de": "Churros"
+      },
+      "category": "baked_goods",
+      "grams_per_cho": 25,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Donut",
+        "en": "Donut",
+        "fr": "Donut",
+        "gl": "Donut",
+        "ca": "Donut",
+        "eu": "Donut",
+        "it": "Ciambella",
+        "de": "Donut"
+      },
+      "category": "baked_goods",
+      "grams_per_cho": 23,
+      "glycemic_index": 75
+    },
+    {
+      "name": {
+        "es": "Ensaimada",
+        "en": "Ensaimada",
+        "fr": "Ensaimada",
+        "gl": "Ensaimada",
+        "ca": "Ensaimada",
+        "eu": "Ensaimada",
+        "it": "Ensaimada",
+        "de": "Ensaimada"
+      },
+      "category": "baked_goods",
+      "grams_per_cho": 23,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Magdalena",
+        "en": "Muffin",
+        "fr": "Muffin",
+        "gl": "Magdalena",
+        "ca": "Magdalena",
+        "eu": "Magdalena",
+        "it": "Muffin",
+        "de": "Muffin"
+      },
+      "category": "baked_goods",
+      "grams_per_cho": 25,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Merengue",
+        "en": "Meringue",
+        "fr": "Meringue",
+        "gl": "Merengue",
+        "ca": "Merengue",
+        "eu": "Merengue",
+        "it": "Meringa",
+        "de": "Baiser"
+      },
+      "category": "baked_goods",
+      "grams_per_cho": 11,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Pastel de chocolate",
+        "en": "Chocolate cake",
+        "fr": "Gâteau au chocolat",
+        "gl": "Pastel de chocolate",
+        "ca": "Pastís de xocolata",
+        "eu": "Txokolate pastel",
+        "it": "Torta al cioccolato",
+        "de": "Schokoladenkuchen"
+      },
+      "category": "baked_goods",
+      "grams_per_cho": 25,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Pastel de crema",
+        "en": "Cream cake",
+        "fr": "Gâteau à la crème",
+        "gl": "Pastel de crema",
+        "ca": "Pastís de crema",
+        "eu": "Krema pastel",
+        "it": "Torta alla crema",
+        "de": "Cremekuchen"
+      },
+      "category": "baked_goods",
+      "grams_per_cho": 35,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Tarta de manzana",
+        "en": "Apple tart",
+        "fr": "Tarte aux pommes",
+        "gl": "Tarta de mazá",
+        "ca": "Tarta de poma",
+        "eu": "Sagarriko tarta",
+        "it": "Crostata di mele",
+        "de": "Apfeltarte"
+      },
+      "category": "baked_goods",
+      "grams_per_cho": 25,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Caramelo",
+        "en": "Caramel",
+        "fr": "Caramel",
+        "gl": "Caramelo",
+        "ca": "Caramel",
+        "eu": "Karamel",
+        "it": "Caramello",
+        "de": "Karamell"
+      },
+      "category": "confectionery",
+      "grams_per_cho": 12,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Chocolate blanco o con leche",
+        "en": "White or milk chocolate",
+        "fr": "Chocolat blanc ou au lait",
+        "gl": "Chocolate branco ou con leite",
+        "ca": "Xocolata blanca o amb llet",
+        "eu": "Txokolate zuria edo esnea",
+        "it": "Cioccolato bianco o al latte",
+        "de": "Weiße oder Milchschokolade"
+      },
+      "category": "confectionery",
+      "grams_per_cho": 17,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Chocolate negro",
+        "en": "Dark chocolate",
+        "fr": "Chocolat noir",
+        "gl": "Chocolate negro",
+        "ca": "Xocolata negra",
+        "eu": "Txokolate beltza",
+        "it": "Cioccolato fondente",
+        "de": "Dunkle Schokolade"
+      },
+      "category": "confectionery",
+      "grams_per_cho": 25,
+      "glycemic_index": 20
+    },
+    {
+      "name": {
+        "es": "Golosinas",
+        "en": "Sweets",
+        "fr": "Bonbons",
+        "gl": "Golosinas",
+        "ca": "Golosines",
+        "eu": "Golosinas",
+        "it": "Dolciumi",
+        "de": "Süßigkeiten"
+      },
+      "category": "confectionery",
+      "grams_per_cho": 18,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Mazapán",
+        "en": "Marzipan",
+        "fr": "Massepain",
+        "gl": "Mazapán",
+        "ca": "Masapà",
+        "eu": "Mazapán",
+        "it": "Marzapane",
+        "de": "Marzipan"
+      },
+      "category": "confectionery",
+      "grams_per_cho": 25,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Turrón (tipo Alicante)",
+        "en": "Alicante nougat",
+        "fr": "Nougat d'Alicante",
+        "gl": "Turrón (tipo Alicante)",
+        "ca": "Torró d'Alicante",
+        "eu": "Alicantetako turrona",
+        "it": "Torrone di Alicante",
+        "de": "Turrón vom Typ Alicante"
+      },
+      "category": "confectionery",
+      "grams_per_cho": 25,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Turrón (tipo Jijona)",
+        "en": "Jijona nougat",
+        "fr": "Nougat de Jijona",
+        "gl": "Turrón (tipo Jijona)",
+        "ca": "Torró de Jijona",
+        "eu": "Jijonetako turrona",
+        "it": "Torrone di Jijona",
+        "de": "Turrón vom Typ Jijona"
+      },
+      "category": "confectionery",
+      "grams_per_cho": 25,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Ketchup",
+        "en": "Ketchup",
+        "fr": "Ketchup",
+        "gl": "Ketchup",
+        "ca": "Ketchup",
+        "eu": "Ketchup",
+        "it": "Ketchup",
+        "de": "Ketchup"
+      },
+      "category": "condiments",
+      "grams_per_cho": 50,
+      "glycemic_index": 55
+    },
+    {
+      "name": {
+        "es": "Mermelada",
+        "en": "Jam",
+        "fr": "Confiture",
+        "gl": "Mermelada",
+        "ca": "Mermelada",
+        "eu": "Marmelada",
+        "it": "Marmellata",
+        "de": "Marmelade"
+      },
+      "category": "condiments",
+      "grams_per_cho": 20,
+      "glycemic_index": 65
+    },
+    {
+      "name": {
+        "es": "Mermelada light",
+        "en": "Light jam",
+        "fr": "Confiture légère",
+        "gl": "Mermelada light",
+        "ca": "Mermelada lleugera",
+        "eu": "Marmelada argia",
+        "it": "Marmellata light",
+        "de": "Light Marmelade"
+      },
+      "category": "condiments",
+      "grams_per_cho": 100,
+      "glycemic_index": 30
+    },
+    {
+      "name": {
+        "es": "Salsa barbacoa",
+        "en": "Barbecue sauce",
+        "fr": "Sauce barbecue",
+        "gl": "Salsa barbacoa",
+        "ca": "Salsa barbacoa",
+        "eu": "Salsa barbacoa",
+        "it": "Salsa barbecue",
+        "de": "Barbecuesauce"
+      },
+      "category": "condiments",
+      "grams_per_cho": 100,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Salsa bechamel",
+        "en": "Béchamel sauce",
+        "fr": "Sauce béchamel",
+        "gl": "Salsa bechamel",
+        "ca": "Salsa beixamel",
+        "eu": "Beshamel salsa",
+        "it": "Salsa besciamella",
+        "de": "Béchamelsauce"
+      },
+      "category": "condiments",
+      "grams_per_cho": 100,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Salsa boloñesa",
+        "en": "Bolognese sauce",
+        "fr": "Sauce bolognaise",
+        "gl": "Salsa boloñesa",
+        "ca": "Salsa bolonyesa",
+        "eu": "Bolognesa salsa",
+        "it": "Salsa alla bolognese",
+        "de": "Bolognesesauce"
+      },
+      "category": "condiments",
+      "grams_per_cho": 150,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Salsa de tomate comercial",
+        "en": "Commercial tomato sauce",
+        "fr": "Sauce tomate commerciale",
+        "gl": "Salsa de tomate comercial",
+        "ca": "Salsa de tomàquet comercial",
+        "eu": "Tomate salts komertziala",
+        "it": "Salsa di pomodoro commerciale",
+        "de": "Tomatensauce (kommerziell)"
+      },
+      "category": "condiments",
+      "grams_per_cho": 100,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Vinagre tipo Módena (caramelizado)",
+        "en": "Balsamic vinegar",
+        "fr": "Vinaigre balsamique",
+        "gl": "Vinagre (tipo Módena)",
+        "ca": "Vinagre de Mòdena",
+        "eu": "Módena azukririk gabe",
+        "it": "Aceto balsamico",
+        "de": "Balsamico-Essig"
+      },
+      "category": "condiments",
+      "grams_per_cho": 15,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Calamares a la romana",
+        "en": "Fried squid (Roman style)",
+        "fr": "Calmars à la romaine",
+        "gl": "Calamares á romana",
+        "ca": "Calamars a la romana",
+        "eu": "Calamares a la romana",
+        "it": "Calamari alla romana",
+        "de": "Tintenfisch nach römischer Art"
+      },
+      "category": "prepared_dishes",
+      "grams_per_cho": 120,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Canelones con bechamel",
+        "en": "Cannelloni with béchamel",
+        "fr": "Cannelloni à la béchamel",
+        "gl": "Canelóns con bechamel",
+        "ca": "Canelons amb beixamel",
+        "eu": "Caneloni bechamelarekin",
+        "it": "Cannelloni al besciamella",
+        "de": "Cannelloni mit Béchamelsauce"
+      },
+      "category": "prepared_dishes",
+      "grams_per_cho": 100,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Lasaña",
+        "en": "Lasagna",
+        "fr": "Lasagne",
+        "gl": "Lasaña",
+        "ca": "Lasaña",
+        "eu": "Lasaña",
+        "it": "Lasagna",
+        "de": "Lasagne"
+      },
+      "category": "prepared_dishes",
+      "grams_per_cho": 100,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Empanadilla de carne",
+        "en": "Meat turnover",
+        "fr": "Chausson à la viande",
+        "gl": "Empanadilla de carne",
+        "ca": "Empanadilla de carn",
+        "eu": "Empanadillia",
+        "it": "Empanadilla di carne",
+        "de": "Fleischpastete"
+      },
+      "category": "prepared_dishes",
+      "grams_per_cho": 50,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Tortilla de patatas",
+        "en": "Spanish omelette",
+        "fr": "Tortilla espagnole",
+        "gl": "Tortilla de patacas",
+        "ca": "Truita de patates",
+        "eu": "Patata tortilla",
+        "it": "Tortilla di patate",
+        "de": "Spanisches Omelett"
+      },
+      "category": "prepared_dishes",
+      "grams_per_cho": 120,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Pizza",
+        "en": "Pizza",
+        "fr": "Pizza",
+        "gl": "Pizza",
+        "ca": "Pizza",
+        "eu": "Pizza",
+        "it": "Pizza",
+        "de": "Pizza"
+      },
+      "category": "prepared_dishes",
+      "grams_per_cho": 40,
+      "glycemic_index": 45
+    },
+    {
+      "name": {
+        "es": "Barrita energética (de cereales)",
+        "en": "Energy bar (cereal)",
+        "fr": "Barre énergétique (de céréales)",
+        "gl": "Barriña enerxética (de cereais)",
+        "ca": "Barreta energètica (de cereals)",
+        "eu": "Energia barra (zera)",
+        "it": "Barretta energetica (di cereali)",
+        "de": "Energieriegel (Getreide)"
+      },
+      "category": "snacks",
+      "grams_per_cho": 20,
+      "glycemic_index": 70
+    },
+    {
+      "name": {
+        "es": "Croquetas",
+        "en": "Croquettes",
+        "fr": "Croquettes",
+        "gl": "Croquetas",
+        "ca": "Croquetes",
+        "eu": "Croquetas",
+        "it": "Crocchette",
+        "de": "Kroketten"
+      },
+      "category": "snacks",
+      "grams_per_cho": 50,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Gel deport",
+        "en": "Energy gel",
+        "fr": "Gel énergétique",
+        "gl": "Xel deportivo",
+        "ca": "Gel deport",
+        "eu": "Gel deport",
+        "it": "Gel energetico",
+        "de": "Energy-Gel"
+      },
+      "category": "snacks",
+      "grams_per_cho": 40,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Palomitas",
+        "en": "Popcorn",
+        "fr": "Pop-corn",
+        "gl": "Palomitas",
+        "ca": "Pamonetes",
+        "eu": "Popkorn",
+        "it": "Popcorn",
+        "de": "Popcorn"
+      },
+      "category": "snacks",
+      "grams_per_cho": 20,
+      "glycemic_index": 85
+    },
+    {
+      "name": {
+        "es": "Surimi (palitos de cangrejo)",
+        "en": "Surimi (crab sticks)",
+        "fr": "Surimi (bâtonnets de crabe)",
+        "gl": "Surimi (paliños de caranguexo)",
+        "ca": "Surimi (bastonets de cranc)",
+        "eu": "Surimi (kanguruko paloiak)",
+        "it": "Surimi (bastoncini di granchio)",
+        "de": "Surimi (Krabbensticks)"
+      },
+      "category": "snacks",
+      "grams_per_cho": 100,
+      "glycemic_index": null
+    },
+    {
+      "name": {
+        "es": "Levadura",
+        "en": "Yeast",
+        "fr": "Levure",
+        "gl": "Levadura",
+        "ca": "Llevadura",
+        "eu": "Lebadura",
+        "it": "Lievito",
+        "de": "Hefe"
+      },
+      "category": "ingredients",
+      "grams_per_cho": 130,
+      "glycemic_index": null
+    }
+  ]
+}
