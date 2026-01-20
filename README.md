@@ -217,7 +217,3 @@ docker run -d -p 8080:80 --name carbwise cibrandocampo/carbwise:latest
 ## License
 
 This project is licensed under the MIT License.
-
-## Contact
-
-For any inquiries or feedback, please contact [Cibrán Docampo] at [hello@cibran.es].
